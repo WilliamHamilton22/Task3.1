@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Task2.1</string>
+
+    <string-array name="conversion_categories">
+        <item>Currency</item>
+        <item>Fuel Efficiency</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="currency_units">
+        <item>AUD</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+    </string-array>
+
+    <string-array name="fuel_units">
+        <item>km/L</item>
+        <item>mpg</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
